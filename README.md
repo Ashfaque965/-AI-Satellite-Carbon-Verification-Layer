@@ -151,6 +151,4 @@ Carbon credit outputs are simplified and not certified for real-world financial 
 If you like this project, give it a ⭐ and follow for updates.
 
 
-🚀 Startup landing page version  
-🚀 Investor pitch deck (YC style)
-```
+``
